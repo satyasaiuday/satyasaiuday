@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyasaiuday
-- 📫 How to reach me [satyasaiuday@gmail.com]
+- 📫 How to reach me [satyasaiudaygurram@gmail.com]
 
 <!---
 satyasaiuday/satyasaiuday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
